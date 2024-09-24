@@ -18,6 +18,7 @@ Interned at Revogrren Technologies in Web Development & Graphic Design
 Gained hands-on experience with Figma
 
 🎨 Projects 
+Frontend
 Sidebar -Menu (https://github.com/Soham3131/Sidebar-menu)
 
 C++ Project
