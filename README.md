@@ -5,10 +5,14 @@
  
 🔧 Skills:
 
-Programming - C , c++ 
+Programming - C , C++ 
+
 DSA
+
 Full Stack Web Development
+
 Problem Solving
+
 Graphics Designing
 
 💻 Experiences
