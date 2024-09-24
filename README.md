@@ -11,18 +11,21 @@ Full Stack Web Development
 Problem Solving
 Graphics Designing
 
-Let’s build something awesome together! 🌟
-
 💻 Experiences
 Interned at Revogrren Technologies in Web Development & Graphic Design  
 Gained hands-on experience with Figma
 
 🎨 Projects 
+
 Frontend
+
 Sidebar -Menu (https://github.com/Soham3131/Sidebar-menu)
 
 C++ Project
+
 Scheduling Algos (https://github.com/Soham3131/Scheduling-Algos-OS)
+
+Let’s build something awesome together! 🌟
 
 
 
