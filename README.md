@@ -19,6 +19,7 @@ Gained hands-on experience with Figma
 
 🎨 Projects 
 Sidebar -Menu (https://github.com/Soham3131/Sidebar-menu)
+
 C++ Project
 Scheduling Algos (https://github.com/Soham3131/Scheduling-Algos-OS)
 
