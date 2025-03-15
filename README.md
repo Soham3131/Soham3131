@@ -20,14 +20,16 @@ Interned at Revogrren Technologies in Web Development & Graphic Design
 Gained hands-on experience with Figma
 
 🎨 Projects 
+**Full Stack Web Development**
+**CodesSphere** -https://code-sphere-three.vercel.app/
 
-Frontend
+**Frontend**
 
-Sidebar -Menu (https://github.com/Soham3131/Sidebar-menu)
+**Sidebar-Menu** (https://github.com/Soham3131/Sidebar-menu)
 
-C++ Project
+**C++ Project**
 
-Scheduling Algos (https://github.com/Soham3131/Scheduling-Algos-OS)
+**Scheduling Algos** (https://github.com/Soham3131/Scheduling-Algos-OS)
 
 Let’s build something awesome together! 🌟
 
