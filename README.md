@@ -64,13 +64,14 @@ I focus on engineering that **scales**, enhances **performance**, and delivers *
 ✔ Admin + Delivery dashboards  
 ✔ Refund + Reschedule workflow  
 
-🔗 **Live:** https://shoes-ecommerce  
+🔗 **Live:** https://shoes-ecommerce-iota.vercel.app/ 
 📦 Repo: _Private_
 
 ---
 
 ## 🧾 **HR Portal (ERP Software) — Avani Enterprises**
-**Tech:** React, Node, MongoDB, Tailwind, Cron**  
+**Tech:** React, Node, MongoDB, Tailwind, Cron** 
+✔ Daily Attendance + Leave Management
 ✔ Automated payroll  
 ✔ Attendance + EOD reports  
 ✔ Full analytics dashboard  
