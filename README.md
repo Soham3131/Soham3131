@@ -9,7 +9,7 @@
 <h3 align="center">Full Stack MERN Developer · Team Lead · 3D & AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://sohamdang.vercel.app"><b>🌐 Portfolio</b></a> •
+  <a href="https://sohamdang.vercel.app/?source=github"><b>🌐 Portfolio</b></a> •
   <a href="https://www.linkedin.com/in/soham-dang-9ba897215/"><b>LinkedIn</b></a> •
   <a href="https://github.com/Soham3131"><b>GitHub</b></a> •
   <a href="mailto:Sohamdang0@gmail.com"><b>Email</b></a>
